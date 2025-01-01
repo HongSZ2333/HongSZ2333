@@ -2,8 +2,8 @@
 
 以下是我的网站:
 
-* 我的私人博客  -> [点击跳转](www.hongsz.cn)
-* HCN博客  -> [点击跳转](blog.hongsz.cn)
+* 我的博客  -> [点击跳转](www.hongsz.cn)
+* 纯净水互联 IDC  -> [点击跳转](idc.cjsyun.cn)
 
 以下是关于我的网站：
 
